@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pouneh  
+# 👋 Hi, I'm Poune 
 ### 💻 Frontend Developer | JavaScript • React • UI/UX  
 Creating clean, modern, and user-friendly web interfaces 🌿  
 
